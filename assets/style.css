@@ -1,0 +1,36 @@
+.calculator {
+    width: 463px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.075);
+}
+
+.display {
+    margin-bottom: 51px;
+    width: 420px;
+    height: 110px;
+    font-size: 33px;
+    text-align: right;
+}
+
+.operation {
+    font-size: 13px;
+    color: #888;
+}
+
+.result {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+button {
+    padding: 31px;
+    margin: 0;
+    max-width: 110px;
+    max-height: 76px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 4px;
+    gap: 2px;
+}
